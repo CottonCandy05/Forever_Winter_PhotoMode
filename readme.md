@@ -132,3 +132,14 @@ CAPS_LOCK NUM_LOCK SCROLL_LOCK PAUSE PRINT_SCREEN
 ```
 
 </details>
+
+---
+
+## License
+
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](LICENSE).
+
+* **Free to use & share:** You are free to download, use, copy, and redistribute this mod.
+* **Free to adapt:** You are free to modify, adapt, and build upon the material.
+* **Non-commercial only (Not sellable):** You may **not** sell, monetize, charge for, or use this material for any commercial purposes or behind paywalls.
+* **Attribution:** Appropriate credit must be given to original creators and maintainers.
